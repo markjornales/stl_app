@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": false,
+    "lib": [
+      "es2016",
+      "DOM"
+    ]
+  },
+  "typeRoots" : ["./src/typescript"]
+}

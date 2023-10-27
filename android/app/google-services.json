@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406750739891",
+    "project_id": "stl-app-28b8c",
+    "storage_bucket": "stl-app-28b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406750739891:android:b01d056edac4613c041fc6",
+        "android_client_info": {
+          "package_name": "com.stlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406750739891-9o141do29l207h839c267eumebdohls9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZjyTWnKu6nC3zv7Jg7rDi-CUsxX_6j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406750739891-9o141do29l207h839c267eumebdohls9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
